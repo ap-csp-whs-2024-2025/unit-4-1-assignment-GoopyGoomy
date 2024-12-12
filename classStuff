@@ -1,0 +1,26 @@
+int main()
+{int age = 10; // SET age TO 10
+  double price = 19.99
+  bool isRaining = false
+  std::cout << age << "\n" << price << std::endl << isRaining << std::endl 
+// std::endl and \n puts stuff on another line
+// std::cout << computer output
+
+int grade_level = 12
+std::cout << "I am a " << grade_level << "th grader" << std::endl
+
+int num = 5;
+num = 5;
+// all strings use double quotes
+std::string stu_name = "John"
+std::string number = "5"
+
+std::cout << "My name is " << st_name << std::endl
+
+double x = 0.1
+double y = 0.2
+double sum = x+y //computer turns numbers into binary, rounding error (.30000000444)
+
+print("%.30f\n, sum")
+std::cout << (sum == 0.3) << std::endl
+}
